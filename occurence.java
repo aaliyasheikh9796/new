@@ -9,7 +9,11 @@ import java.util.*;
  * @author Aaliya Sheikh
  *
  */
-
+/**
+* This is the occurence program 
+* which is find the number of occurence of a character 
+* 
+*/
 public class occurence
 	{
 	public static void main(String[] args) {
