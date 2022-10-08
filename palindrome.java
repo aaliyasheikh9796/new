@@ -4,6 +4,12 @@ import java.util.*;
  * @author Aaliya Sheikh
  *
  */
+
+/**
+* Changes are made by bhawna rathor
+* This program is palindorme
+*
+*/
 public class palindrome 
 	{
 			public void palindrome_no(int num){
